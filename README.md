@@ -7,6 +7,7 @@ Pour le design de l'énigme, il sagit de l'archive "design énigme"
 Pour le changelog du projet, il sagit du fichier "Changelog du projet Enigma"
 
 //------------------------------------------------//
+
 //-----------------COMMENT JOUER-----------------//
 
 pour jouer, les déplacements se font avec les flêche directionelles
@@ -19,6 +20,7 @@ le but et de faire glisser la souris le long du chemin depuis le depart
 juqu'a l'arrivée. Cela ouvre la porte qui bloque le chemin du joueur.
 
 //------------------------------------------------//
+
 //-----------------MINI POSTMORTEM-----------------//
 
 Pour ce projet, je n'ai pas eu le temps de réaliser tout ce que je voulais,
